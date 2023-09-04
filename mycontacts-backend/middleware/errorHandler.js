@@ -45,7 +45,7 @@ const errorHandler = (err, req, res, next) => {
         });
         break;
     default:
-      console.log("No error all gs");
+      console.log(err);
       break;
   }
 };
