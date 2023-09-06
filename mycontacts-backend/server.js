@@ -11,6 +11,7 @@ const port = process.env.PORT || 5000;
 //For parsing body
 app.use(express.json());
 app.use('/api/contacts',router)
+app.use('/api/users', require("./routes/userRoutes"));
 app.use(errorHandler);
 
 app.listen(port, () => {
