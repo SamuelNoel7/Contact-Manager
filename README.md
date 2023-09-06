@@ -1,4 +1,3 @@
-```markdown
 # Contact Manager App
 
 A Contact Manager application built with Node.js, Express, MongoDB, and JWT authentication for managing your contacts.
