@@ -77,6 +77,3 @@ Contributions are welcome! Please feel free to open a new issue or submit a pull
 This project is licensed under the MIT License.
 
 
-```
-
-Remember to replace the placeholders (e.g., `yourusername`, `your_mongodb_uri`, `your_secret_key`) with your actual information and customize the content as needed for your specific project. You can also add more sections or details to the README based on your project's requirements and documentation needs.
